@@ -2,6 +2,7 @@
     "name": "copyaslist",
     "displayName": "CopyAsList",
     "description": "Copy multi-selection as list",
+    "publisher": "cprogrammer1994",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
